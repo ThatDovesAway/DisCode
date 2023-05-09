@@ -1,2 +1,2 @@
-public class SalonTchat {
+public class SalonTchat extends Catégorie{
 }

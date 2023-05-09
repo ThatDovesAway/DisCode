@@ -1,2 +1,2 @@
-public class Catégorie {
+public class Catégorie extends Serveur{
 }
